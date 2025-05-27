@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+#body-header{
+    height: 60vh;
+    opacity: 0.9;
+    background-image: url(image/w100_hero_mobile_v2.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
